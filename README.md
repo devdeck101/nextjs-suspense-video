@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Projeto suporte para o vídeo do Youtube sobre Nextjs Loading e Suspense
+[Vídeo aqui](https://www.youtube.com/watch?v=K2Eyf7YOx-o)
+
 First, run the development server:
 
 ```bash
